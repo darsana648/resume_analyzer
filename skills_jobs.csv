@@ -1,0 +1,114 @@
+JobRole,Skill
+Python Developer,Python
+Python Developer,Django
+Python Developer,Flask
+Python Developer,SQL
+Python Developer,Git
+
+Data Scientist,Python
+Data Scientist,Pandas
+Data Scientist,NumPy
+Data Scientist,Machine Learning
+Data Scientist,Statistics
+
+Frontend Developer,HTML
+Frontend Developer,CSS
+Frontend Developer,JavaScript
+Frontend Developer,React
+Frontend Developer,Bootstrap
+
+Backend Developer,Python
+Backend Developer,Django
+Backend Developer,API
+Backend Developer,SQL
+Backend Developer,Docker
+
+Doctor,Diagnosis
+Doctor,Patient Care
+Doctor,Medical Knowledge
+Doctor,Prescription
+
+Nurse,Patient Care
+Nurse,Medical Assistance
+Nurse,Emergency Care
+Nurse,Clinical Support
+
+Pharmacist,Pharmacy Knowledge
+Pharmacist,Drug Dispensing
+Pharmacist,Prescription Handling
+Pharmacist,Patient Counseling
+
+Teacher,Subject Knowledge
+Teacher,Classroom Management
+Teacher,Lesson Planning
+Teacher,Student Evaluation
+
+Mechanical Engineer,AutoCAD
+Mechanical Engineer,Mechanical Design
+Mechanical Engineer,Manufacturing
+Mechanical Engineer,Thermodynamics
+
+Civil Engineer,AutoCAD
+Civil Engineer,Structural Design
+Civil Engineer,Construction Management
+Civil Engineer,Surveying
+
+Electrical Engineer,Circuit Design
+Electrical Engineer,Electrical Systems
+Electrical Engineer,Power Distribution
+Electrical Engineer,Maintenance
+
+Accountant,Accounting
+Accountant,Financial Reporting
+Accountant,Taxation
+Accountant,Auditing
+
+Bank Manager,Financial Management
+Bank Manager,Customer Service
+Bank Manager,Risk Management
+Bank Manager,Loan Processing
+
+Digital Marketer,SEO
+Digital Marketer,Social Media Marketing
+Digital Marketer,Google Ads
+Digital Marketer,Content Marketing
+
+Sales Executive,Sales Strategy
+Sales Executive,Customer Handling
+Sales Executive,Negotiation
+Sales Executive,Product Knowledge
+
+HR Manager,Recruitment
+HR Manager,Employee Relations
+HR Manager,Payroll Management
+HR Manager,Performance Management
+
+Graphic Designer,Photoshop
+Graphic Designer,Illustrator
+Graphic Designer,Creativity
+Graphic Designer,Brand Design
+
+UI UX Designer,Figma
+UI UX Designer,Wireframing
+UI UX Designer,Prototyping
+UI UX Designer,User Research
+
+Chef,Cooking
+Chef,Food Preparation
+Chef,Kitchen Management
+Chef,Menu Planning
+
+Hotel Manager,Hospitality Management
+Hotel Manager,Customer Service
+Hotel Manager,Staff Management
+Hotel Manager,Operations
+
+Journalist,News Writing
+Journalist,Research
+Journalist,Interviewing
+Journalist,Communication
+
+Lawyer,Legal Research
+Lawyer,Case Preparation
+Lawyer,Negotiation
+Lawyer,Court Representation
